@@ -20,4 +20,4 @@ You can find the modpack on Modrinth at the following link: https://modrinth.com
 
 <center><span><em><img src="https://dl.codelore.me/separatore1.png"></em></span></center>
 
-discord.codelore.me
+Wiki: ???
