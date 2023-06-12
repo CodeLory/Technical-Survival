@@ -1,4 +1,4 @@
-Technical Survival by CodiceLore
+# Technical Survival by CodiceLore
 
 This modpack aims to optimize performance and ensure a more technical survival experience.
 
