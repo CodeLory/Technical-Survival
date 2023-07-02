@@ -1,6 +1,6 @@
 <center><a title="https://modrinth.com/modpack/technical-survival" href="https://modrinth.com/modpack/technical-survival"><img src="https://dl.codelore.me/modrinth2.png" alt="" width="596" height="172"></a></center>
-<h2><a href="https://discord.gg/RMAjVZBP3K" rel="noopener nofollow ugc">
-<img alt="Discord" src="https://img.shields.io/discord/1100493137585127507?color=5865F2&style=for-the-badge" alt="Discord"> 
+<h2><a href="[https://discord.gg/RMAjVZBP3K](https://discord.gg/bS23nNjRYU)" rel="noopener nofollow ugc">
+<img alt="Discord" src="https://img.shields.io/discord/1124047342375551078?color=5865F2&style=for-the-badge" alt="Discord"> 
 </a>
 <a href="https://modrinth.com/modpack/technical-survival"><img alt="Modrinth Downloads" src="https://img.shields.io/modrinth/dt/s9nD0w2g?color=1bd96a&style=for-the-badge"> 
 </a> 
